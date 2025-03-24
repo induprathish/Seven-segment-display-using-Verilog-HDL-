@@ -68,7 +68,9 @@ endmodule
 ```
 ## Simulated Output
 
-_____ Keep Simulated output ___________
+![image](https://github.com/user-attachments/assets/cbc43ec7-2d2d-48b7-8a04-3427385eefdb)
+
+_____ ___________
 
 
 ## Testbench for Seven-Segment Display
